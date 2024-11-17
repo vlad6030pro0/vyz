@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vyz.props" />
+</Project>
